@@ -1,0 +1,3 @@
+const PRICE_API_ENDPOINT = process.env.REACT_APP_PRICE_API_ENDPOINT;
+
+export { PRICE_API_ENDPOINT };
